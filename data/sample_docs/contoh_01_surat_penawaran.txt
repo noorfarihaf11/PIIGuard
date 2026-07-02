@@ -1,0 +1,11 @@
+Nama    : Budi Santoso
+Jabatan : Manajer Operasional
+Email   : budi.santoso@perusahaan.co.id
+No HP   : 081234567890
+NIK     : 3578012345670001
+Alamat  : Jl. Merdeka No. 10, Surabaya, Jawa Timur
+Kontrak : PKS-20241001
+Nilai   : Rp 75.000.000
+
+Budi Santoso bekerja di PT Maju Bersama yang berlokasi di Surabaya.
+Hubungi beliau melalui email atau nomor telepon di atas untuk konfirmasi.

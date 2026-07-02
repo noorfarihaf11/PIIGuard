@@ -1,0 +1,10 @@
+CATATAN REKAM MEDIS
+
+Nama Pasien : Ahmad Fauzi
+Alamat      : Jl. Diponegoro No. 7, Kota Surabaya
+No. HP      : 089998765432
+Email       : ahmad.fauzi88@yahoo.com
+
+Pasien Ahmad Fauzi dirawat di RSUD Dr. Soetomo pada tanggal pemeriksaan
+terakhir. Dokter penanggung jawab dapat dihubungi melalui email rumah sakit
+atau nomor kontak pasien di atas untuk tindak lanjut.
