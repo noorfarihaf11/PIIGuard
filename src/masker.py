@@ -90,8 +90,10 @@ def get_statistics(pii_spans: list[dict]) -> dict:
 
 
 if __name__ == "__main__":
-    from regex_detector import regex_detect
-    from ner_detector import ner_detect
+    import sys as _sys, os as _os
+    _sys.path.insert(0, _os.path.abspath(_os.path.join(_os.path.dirname(__file__), "..")))
+    from src.regex_detector import regex_detect
+    from src.ner_detector import ner_detect
 
     contoh = (
         "Nama saya Budi Santoso, bekerja di PT Maju Bersama. "

@@ -37,8 +37,8 @@ LABEL_MAP = {
 # Indonesia yang sering tidak tertangkap oleh model multi-language.
 ORG_KEYWORDS = r"(?:PT|CV|UD|Universitas|Fakultas|Yayasan|Kementerian|Dinas|RSUD|Rumah Sakit)\s+[A-Z][\w&\.]*(?:\s+[A-Z][\w&\.]*){0,4}"
 LOCATION_KEYWORDS = (
-    r"(?:Jl\.|Jalan)\s+[A-Z][\w\s\.]{2,40}?(?=,|\.|$)"
-    r"|(?:Kota|Kabupaten|Provinsi|Kecamatan|Kelurahan)\s+[A-Z][\w\s]{2,30}?(?=,|\.|$)"
+    r"(?:Jl\.|Jalan)\s+[A-Z][^,\n]{2,60}?(?=[,\n]|$)"
+    r"|(?:Kota|Kabupaten|Provinsi|Kecamatan|Kelurahan)\s+[A-Z][\w\s]{2,30}?(?=[,\.\n]|$)"
 )
 
 
