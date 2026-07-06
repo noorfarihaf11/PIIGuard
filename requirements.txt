@@ -3,3 +3,4 @@ spacy>=3.7.0
 pandas>=2.0.0
 PyMuPDF>=1.23.0
 python-docx>=1.1.0
+https://github.com/explosion/spacy-models/releases/download/xx_ent_wiki_sm-3.7.0/xx_ent_wiki_sm-3.7.0-py3-none-any.whl
